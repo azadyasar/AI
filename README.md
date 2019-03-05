@@ -1,1 +1,3 @@
-#Traditional Genetic Algorithms \n https://www.youtube.com/watch?v=eUig0n8wPeA&t=1s
+# Traditional Genetic Algorithms  
+
+<a href="https://www.youtube.com/watch?v=eUig0n8wPeA&t=1s">Check out the demo!</a>
